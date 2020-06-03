@@ -1,0 +1,64 @@
+header h3 
+{
+    color: #AAA;;
+}
+
+header 
+{
+    border-bottom: 1px solid #AAA;
+}
+
+.my-cont 
+{
+    background-color: #eee;
+    
+    
+}
+
+.items 
+{
+    width: 80%;
+    margin: auto;
+    font-weight: bold;
+}
+
+.second 
+{
+    border-bottom: 1px solid #AAA;
+    ;
+}
+
+.footer p 
+{
+    color: #AAA;
+}
+
+.mine 
+{
+    background: rgb(238,238,238);
+    background: linear-gradient(180deg, rgba(238,238,238,1) 0%, rgba(255,255,255,1) 75%);
+}
+
+.btn-danger
+{
+    background-color: #680003
+}
+
+.btn-danger:hover 
+{
+    background-color: #550003 ;
+    box-shadow: 0px 4px 4px rgb(20, 20, 20);
+    border: 1px solid #510d0e;
+}
+
+.btn-primary:hover
+{
+    background-color: #0a3f77;
+    box-shadow: 0px 4px 4px rgb(20, 20, 20);
+    border: 1px solid #0a3f77;
+}
+
+.lolo
+{
+    display: none !important;
+}
